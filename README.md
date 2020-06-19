@@ -14,11 +14,21 @@ Topics to be cover here:-
 
 6- Understand manual data refresh
 
+# Practical Video
+
+https://youtu.be/UJdJffYWo5w
+
+
 # For dataset
+
 https://www.trackcorona.live/api/countries
 
 # Follow us on
+
 Website: https://www.powerbidocs.com
+
 Fb: https://www.facebook.com/powerbitutorials
+
 Insta: https://www.instagram.com/powerbitutorials
+
 Youtube:  https://www.youtube.com/PowerBiTutorials
